@@ -417,11 +417,3 @@ class Find_And_Replace(object):
                 logger.write("No Text files found in folder")
         logger.write("Find and Replacing Multiple Text file stoped at: " + datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
         logger.write("Multiple Text File's Replace Operation took: " + str(time.time() - start_time) + " seconds")
-
-
-
-if __name__ == "__main__":
-    a = Find_And_Replace()
-    # a.find_and_replace_keyword_from_single_text_file('test.txt', 'Lorem', 'Ameya')
-    # a.find_and_replace_keyword_from_multiple_text_file('E:\RobotFrameworkProjects\Find-and-Replace\sample_textfiles', 'Lorem', 'Ameya' )
-    a.find_and_replace_keyword_from_single_CSV_file('Test_CSV.csv', 'School', 'Ameya')
