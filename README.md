@@ -1,4 +1,4 @@
-# compare-screenshots
+# Find_and_Replace
 
 [![HitCount](http://hits.dwyl.io/ameyanatu/FInd_and_Replace.svg)](http://hits.dwyl.io/ameyanatu/Find_and_Replace)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
