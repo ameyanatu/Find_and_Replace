@@ -22,7 +22,7 @@ python-dateutil==2.7.4
 python-docx==0.8.7
 pytz==2018.6
 PyWavelets==1.0.1
-pywin32==224
+pywin32==301
 pywinauto==0.6.5
 requests==2.19.1
 robotframework==3.1a2
