@@ -3,7 +3,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==0.6.1
 comtypes==1.1.7
-dask==0.20.2
+dask==2021.10.0
 decorator==4.3.0
 Faker==1.0.0
 Flask==1.0.2
